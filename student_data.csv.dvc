@@ -1,0 +1,5 @@
+outs:
+- md5: af571d830b4166753891efad75049458
+  size: 43
+  hash: md5
+  path: student_data.csv
